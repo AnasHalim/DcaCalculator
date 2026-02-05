@@ -1,0 +1,2 @@
+rootProject.name = "DcaCalculator"
+include ':app'
